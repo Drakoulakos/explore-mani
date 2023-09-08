@@ -12,7 +12,7 @@ const contacts = [
     name: "Παραλία Διρού (Χαλίκια)",
     imgURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaBduZSmKRg_paZD9rzJ8aen_IkOj8ZjNpOA&usqp=CAU",
-    stars: "⭐⭐⭐⭐",
+    stars: "⭐⭐⭐",
     info: "Η παραλία του Πύργου Δυρού είναι μια παραλία στρωμένη με χοντρές πέτρες. Μη σε τρομάζει όμως αυτό, όταν περπατήσεις ένα μέτρο μέσα στη θάλασσα, ο πυθμένας είναι στρωμένος με άμμο. Γι αυτό η παραλία είναι ιδανική και για παιδιά.",
     link: "https://goo.gl/maps/N8NNpdGtDiwjjUUc9",
   },
